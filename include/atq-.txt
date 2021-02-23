@@ -1,0 +1,31 @@
+http://atq-coins.com/cpanel
+UserName: atqcoins
+PassWord: u]h)*U6&8LX9
+
+
+ Payment gateway
+https://www.coinpayments.net/login
+admin@atq-coins.com
+eYXuj3PLQHyJ
+
+Email
+http://atq-coins.com/webmail
+admin@atq-coins.com
+AtqCoins@2019
+
+
+
+
+
+Domain: coinfieldclub.com
+Ip: 174.136.57.224 (n)
+UserName: coinfieldclu
+PassWord: {(ZOgWpT!G7f
+
+
+
+Public Key: 0ea2a56f9a86453d2324ef986d1b15afa88fd9c747554307dc32e06a55a36810
+Private Key: 2039e17a134824d9f9cC844E22Ca72d65F2e2b38980591B3B1B10852Fc351A77
+
+
+Array ( [error] => ok [result] => Array ( [amount] => 0.01000000 [txn_id] => CPDB08HKFOYT7WZ9RLFJYY4VSR [address] => 3NGwtmHtZM4qSx1mise7GYbcXdY8m7HHHP [confirms_needed] => 2 [timeout] => 10800 [status_url] => https://www.coinpayments.net/index.php?cmd=status&id=CPDB08HKFOYT7WZ9RLFJYY4VSR&key=068f671ac103c5a5b299d47511fa0911 [qrcode_url] => https://www.coinpayments.net/qrgen.php?id=CPDB08HKFOYT7WZ9RLFJYY4VSR&key=068f671ac103c5a5b299d47511fa0911 ) )
